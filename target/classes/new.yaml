@@ -1,0 +1,15 @@
+   products:
+     ProductA:
+       suite:
+         "SuiteName_A":
+            environment_1: ["1.9254","B","C"]
+            environment_2: ["X","Y","Z"]
+         "SuiteName_B":
+            environment_1: ["E","F","G"]
+            environment_2: ["K","L","M"]
+     ProductB:
+       suite:
+         "SuiteName_K":
+             environment_1: ["1.25"]
+             environment_2: "Hey this is"
+             environment_3: 10.25
